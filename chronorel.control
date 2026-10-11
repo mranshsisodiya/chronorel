@@ -1,0 +1,3 @@
+comment = 'ChronoRel++ - Automatic temporal versioning and time-travel for PostgreSQL'
+default_version = '1.0'
+relocatable = false
